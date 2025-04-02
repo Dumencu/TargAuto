@@ -1,0 +1,2 @@
+4;Cristi;Ion;Audi;Q5;2011;Negru;Navigatie;02/04/2025
+5;Vasile;Niculai;BMW;X5;2001;Alb;CutieAutomata;02/04/2025

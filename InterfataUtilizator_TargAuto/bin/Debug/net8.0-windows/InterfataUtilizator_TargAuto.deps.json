@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InterfataUtilizator_TargAuto/1.0.0": {
+        "dependencies": {
+          "NivelStocareDate": "1.0.0",
+          "TargAuto": "1.0.0",
+          "TargAutoBussines": "1.0.0",
+          "TargAutoLibrary": "1.0.0"
+        },
+        "runtime": {
+          "InterfataUtilizator_TargAuto.dll": {}
+        }
+      },
+      "NivelStocareDate/1.0.0": {
+        "dependencies": {
+          "TargAutoLibrary": "1.0.0"
+        },
+        "runtime": {
+          "NivelStocareDate.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TargAuto/1.0.0": {
+        "dependencies": {
+          "NivelStocareDate": "1.0.0",
+          "TargAutoBussines": "1.0.0",
+          "TargAutoLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TargAuto.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TargAutoBussines/1.0.0": {
+        "dependencies": {
+          "TargAutoLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TargAutoBussines.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TargAutoLibrary/1.0.0": {
+        "runtime": {
+          "TargAutoLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfataUtilizator_TargAuto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NivelStocareDate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TargAuto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TargAutoBussines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TargAutoLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

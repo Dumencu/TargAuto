@@ -1,0 +1,30 @@
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.AssemblyInfoInputs.cache
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.AssemblyInfo.cs
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\bin\Debug\net8.0\NivelStocareDate.deps.json
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\bin\Debug\net8.0\NivelStocareDate.dll
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\bin\Debug\net8.0\NivelStocareDate.pdb
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\bin\Debug\net8.0\TargAutoLibrary.dll
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\bin\Debug\net8.0\TargAutoLibrary.pdb
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.csproj.AssemblyReference.cache
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\obj\Debug\net8.0\NivelSto.ECC26E05.Up2Date
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.dll
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\obj\Debug\net8.0\refint\NivelStocareDate.dll
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.pdb
+C:\Users\Catalin\Desktop\Targ de masini\NivelStocareDate\obj\Debug\net8.0\ref\NivelStocareDate.dll
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\bin\Debug\net8.0\NivelStocareDate.deps.json
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\bin\Debug\net8.0\NivelStocareDate.dll
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\bin\Debug\net8.0\NivelStocareDate.pdb
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\bin\Debug\net8.0\TargAutoLibrary.dll
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\bin\Debug\net8.0\TargAutoLibrary.pdb
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.csproj.AssemblyReference.cache
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.AssemblyInfoInputs.cache
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.AssemblyInfo.cs
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\obj\Debug\net8.0\NivelSto.ECC26E05.Up2Date
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.dll
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\obj\Debug\net8.0\refint\NivelStocareDate.dll
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\obj\Debug\net8.0\NivelStocareDate.pdb
+C:\Users\Catalin\Desktop\TargAuto\NivelStocareDate\obj\Debug\net8.0\ref\NivelStocareDate.dll
