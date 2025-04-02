@@ -1,0 +1,44 @@
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\obj\Debug\net8.0\TargAuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\obj\Debug\net8.0\TargAuto.AssemblyInfoInputs.cache
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\obj\Debug\net8.0\TargAuto.AssemblyInfo.cs
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\obj\Debug\net8.0\TargAuto.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\bin\Debug\net8.0\TargAuto.exe
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\bin\Debug\net8.0\TargAuto.deps.json
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\bin\Debug\net8.0\TargAuto.runtimeconfig.json
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\bin\Debug\net8.0\TargAuto.dll
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\bin\Debug\net8.0\TargAuto.pdb
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\bin\Debug\net8.0\NivelStocareDate.dll
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\bin\Debug\net8.0\TargAutoBussines.dll
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\bin\Debug\net8.0\TargAutoLibrary.dll
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\bin\Debug\net8.0\NivelStocareDate.pdb
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\bin\Debug\net8.0\TargAutoBussines.pdb
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\bin\Debug\net8.0\TargAutoLibrary.pdb
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\obj\Debug\net8.0\TargAuto.csproj.AssemblyReference.cache
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\obj\Debug\net8.0\TargAuto.csproj.Up2Date
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\obj\Debug\net8.0\TargAuto.dll
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\obj\Debug\net8.0\refint\TargAuto.dll
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\obj\Debug\net8.0\TargAuto.pdb
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\obj\Debug\net8.0\TargAuto.genruntimeconfig.cache
+C:\Users\Catalin\Desktop\Targ de masini\TargAuto\obj\Debug\net8.0\ref\TargAuto.dll
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\bin\Debug\net8.0\TargAuto.exe
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\bin\Debug\net8.0\TargAuto.deps.json
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\bin\Debug\net8.0\TargAuto.runtimeconfig.json
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\bin\Debug\net8.0\TargAuto.dll
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\bin\Debug\net8.0\TargAuto.pdb
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\bin\Debug\net8.0\NivelStocareDate.dll
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\bin\Debug\net8.0\TargAutoBussines.dll
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\bin\Debug\net8.0\TargAutoLibrary.dll
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\bin\Debug\net8.0\NivelStocareDate.pdb
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\bin\Debug\net8.0\TargAutoBussines.pdb
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\bin\Debug\net8.0\TargAutoLibrary.pdb
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\obj\Debug\net8.0\TargAuto.csproj.AssemblyReference.cache
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\obj\Debug\net8.0\TargAuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\obj\Debug\net8.0\TargAuto.AssemblyInfoInputs.cache
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\obj\Debug\net8.0\TargAuto.AssemblyInfo.cs
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\obj\Debug\net8.0\TargAuto.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\obj\Debug\net8.0\TargAuto.csproj.Up2Date
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\obj\Debug\net8.0\TargAuto.dll
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\obj\Debug\net8.0\refint\TargAuto.dll
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\obj\Debug\net8.0\TargAuto.pdb
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\obj\Debug\net8.0\TargAuto.genruntimeconfig.cache
+C:\Users\Catalin\Desktop\TargAuto\TargAuto\obj\Debug\net8.0\ref\TargAuto.dll
