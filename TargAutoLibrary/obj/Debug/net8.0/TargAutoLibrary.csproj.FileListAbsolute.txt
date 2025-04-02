@@ -1,0 +1,22 @@
+C:\Users\Catalin\Desktop\Targ de masini\TargAutoLibrary\obj\Debug\net8.0\TargAutoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalin\Desktop\Targ de masini\TargAutoLibrary\obj\Debug\net8.0\TargAutoLibrary.AssemblyInfoInputs.cache
+C:\Users\Catalin\Desktop\Targ de masini\TargAutoLibrary\obj\Debug\net8.0\TargAutoLibrary.AssemblyInfo.cs
+C:\Users\Catalin\Desktop\Targ de masini\TargAutoLibrary\obj\Debug\net8.0\TargAutoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\Targ de masini\TargAutoLibrary\bin\Debug\net8.0\TargAutoLibrary.deps.json
+C:\Users\Catalin\Desktop\Targ de masini\TargAutoLibrary\bin\Debug\net8.0\TargAutoLibrary.dll
+C:\Users\Catalin\Desktop\Targ de masini\TargAutoLibrary\bin\Debug\net8.0\TargAutoLibrary.pdb
+C:\Users\Catalin\Desktop\Targ de masini\TargAutoLibrary\obj\Debug\net8.0\TargAutoLibrary.dll
+C:\Users\Catalin\Desktop\Targ de masini\TargAutoLibrary\obj\Debug\net8.0\refint\TargAutoLibrary.dll
+C:\Users\Catalin\Desktop\Targ de masini\TargAutoLibrary\obj\Debug\net8.0\TargAutoLibrary.pdb
+C:\Users\Catalin\Desktop\Targ de masini\TargAutoLibrary\obj\Debug\net8.0\ref\TargAutoLibrary.dll
+C:\Users\Catalin\Desktop\TargAuto\TargAutoLibrary\bin\Debug\net8.0\TargAutoLibrary.deps.json
+C:\Users\Catalin\Desktop\TargAuto\TargAutoLibrary\bin\Debug\net8.0\TargAutoLibrary.dll
+C:\Users\Catalin\Desktop\TargAuto\TargAutoLibrary\bin\Debug\net8.0\TargAutoLibrary.pdb
+C:\Users\Catalin\Desktop\TargAuto\TargAutoLibrary\obj\Debug\net8.0\TargAutoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalin\Desktop\TargAuto\TargAutoLibrary\obj\Debug\net8.0\TargAutoLibrary.AssemblyInfoInputs.cache
+C:\Users\Catalin\Desktop\TargAuto\TargAutoLibrary\obj\Debug\net8.0\TargAutoLibrary.AssemblyInfo.cs
+C:\Users\Catalin\Desktop\TargAuto\TargAutoLibrary\obj\Debug\net8.0\TargAutoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\TargAuto\TargAutoLibrary\obj\Debug\net8.0\TargAutoLibrary.dll
+C:\Users\Catalin\Desktop\TargAuto\TargAutoLibrary\obj\Debug\net8.0\refint\TargAutoLibrary.dll
+C:\Users\Catalin\Desktop\TargAuto\TargAutoLibrary\obj\Debug\net8.0\TargAutoLibrary.pdb
+C:\Users\Catalin\Desktop\TargAuto\TargAutoLibrary\obj\Debug\net8.0\ref\TargAutoLibrary.dll
